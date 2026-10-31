@@ -1,0 +1,22 @@
+{
+  "wheel_id": 582,
+  "structure": "umbrella",
+  "slug": "financebrokercentralcoast-107",
+  "project": "mortgage-broker-central-coast-beginner-guide-9589b87e51833e27be",
+  "parent_t1_ref": "financebrokercentralcoast-152",
+  "node_role": "feeder",
+  "money_target": "financebrokercentralcoast.com.au",
+  "primary_kw": "mortgage broker central coast beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-broker-central-coast-beginner-guide-9589b87e51833e27be/",
+  "tier": "T2",
+  "writeback_nonce": "14c2858f2c6ee708",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/financebrokercentralcoast-152/",
+      "anchor": "mortgage broker central coast pros and cons",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
